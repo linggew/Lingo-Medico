@@ -1,0 +1,1413 @@
+{
+  "language": "French",
+  "about": {
+    "id": "ATB",
+    "title": "À PROPOS DE CE LIVRET",
+    "data": [
+      {
+        "text": "Ce livret contient vos renseignements personnels de santé. Veillez à le garder en lieu sûr."
+      },
+      {
+        "text": "Utilisez le guide de référence rapide de ce livret pour un accès rapide."
+      },
+      {
+        "text": "Emportez votre livret de santé international avec vous à chaque fois que vous voyagez."
+      },
+      {
+        "text": "Un livret de santé international distinct est recommandé pour chaque voyageur, y compris les nourrissons et les enfants."
+      },
+      {
+        "text": "Apposez une photo d'identité ci-dessous pour aider le personnel médical à vous identiﬁer."
+      },
+      { "text": "" },
+      { "text": "" },
+      { "text": "" }
+    ]
+  },
+  "disclaimer": {
+    "id": "D",
+    "title": "AVIS DE NON-RESPONSABILITÉ",
+    "data": [
+      {
+        "text": "Bien que ce formulaire soit détaillé, il ne s'agit pas d'une liste complète ou exhaustive de toutes les éventuelles conditions médicales ou dentaires préexistantes ou actuelles, ou des urgences cliniques médicales ou dentaires potentielles que les patients peuvent être amenés à rencontrer et à présenter dans un établissement de soins."
+      },
+      {
+        "text": "Il incombe au patient ou à son tuteur légal de communiquer au personnel médical des antécédents médicaux précis et complets et des symptômes précis et complets lors d'une visite médicale, y compris en cas d'urgence médicale."
+      },
+      {
+        "text": "Par conséquent, en utilisant le Livret de santé international, vous dégagez Global Health Passport, LLC de toute responsabilité légale résultant de son utilisation, y compris, mais sans s'y limiter, toute conséquence indésirable actuelle ou future due à une omission, une erreur ou une mauvaise communication résultant directement ou indirectement de l'utilisation du Livret de santé international."
+      },
+      {
+        "text": "Ce document est fourni tel quel et Global Health Passport, LLC n'offre aucune garantie de qualité marchande ou d'adéquation à un usage particulier en relation avec l'achat et l'utilisation de ce document."
+      }
+    ]
+  },
+  "instructions": {
+    "id": "PI",
+    "title": "À PROPOS DE L'AUTEUR",
+    "data": [
+      {
+        "text": "Le livret de santé international est divisé en trois sections :"
+      },
+      { "text": "Section I. Antécédents médicaux (p. 7 à 19)." },
+      {
+        "text": "Section II. Symptômes médicaux actuels (p. 6 à 7 et p 20 à 34)."
+      },
+      { "text": "Section III. Symptômes dentaires actuels (p. 34 à 36)." },
+      { "text": "Remplissez votre Livret de santé international" },
+      { "text": "Étape 1" },
+      {
+        "text": "Remplissez l'intégralité de la section I (antécédents médicaux). C"
+      },
+      {
+        "text": "Cochez (✓) toutes les cases qui s'appliquent à vos antécédents médicaux."
+      },
+      { "text": "Étape 2" },
+      {
+        "text": "Remplissez la section II (Symptômes médicaux actuels) si vous avez actuellement des symptômes ou des problèmes médicaux. C"
+      },
+      {
+        "text": "Cochez (✓) toutes les cases qui se rapportent à vos symptômes ou problèmes médicaux actuels."
+      },
+      { "text": "Étape 3" },
+      {
+        "text": "Remplissez l'intégralité de la section III (Symptômes dentaires actuels), même s'il ne s'agit que d'un contrôle ou d'un nettoyage dentaire"
+      },
+      { "text": "Veillez à ce que la section I soit entièrement remplie." }
+    ]
+  },
+  "sections": [
+    {
+      "id": "GHP",
+      "title": "LIVRET DE SANTÉ INTERNATIONAL",
+      "data": [
+        { "text": "Votre pays d’origine" },
+        { "text": "" },
+        { "text": "Nom de votre médecin" },
+        { "text": "" },
+        { "text": "Numéro de téléphone/adresse électronique de votre médecin" },
+        { "text": "" },
+        {
+          "text": "Avez-vous récemment effectué d'autres voyages à l'étranger ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si OUI, veuillez énumérer tous les pays où vous avez récemment voyagé"
+        },
+        { "text": "" },
+        {
+          "text": "Veuillez énumérer tous les pays que vous visiterez dans les prochain(e)s jours / semaines / mois"
+        },
+        { "text": "" }
+      ]
+    },
+    {
+      "id": "EP",
+      "title": "PHRASES D'URGENCE",
+      "data": [
+        {
+          "text": "Employez ces phrases en cas d'urgence médicale ou dentaire."
+        },
+        { "text": "Urgence médicale" },
+        { "text": "J'ai une urgence médicale." },
+        { "text": "Emmenez-moi à l'hôpital le plus proche, s'il vous plaît." },
+        { "text": "Appelez-moi un taxi, s'il vous plaît." },
+        {
+          "text": "Contactez le numéro de téléphone d'urgence local à 3 chiffres pour moi, s'il vous plaît."
+        },
+        {
+          "text": "Indiquez-moi le numéro de téléphone d'urgence à 3 chiffres utilisé ici, s'il vous plaît."
+        },
+        { "text": "Urgence dentaire" },
+        { "text": "J'ai une urgence dentaire." },
+        { "text": "Emmenez-moi chez un dentiste, s'il vous plaît." },
+        {
+          "text": "Indiquez-moi le cabinet dentaire le plus proche, s'il vous plaît."
+        },
+        { "text": "Mes renseignements" },
+        { "text": "Ce livret contient mes antécédents médicaux personnels." },
+        {
+          "text": "Veuillez utiliser les renseignements médicaux fournis dans ce livret."
+        },
+        { "text": "Mes allergies sont indiquées à la page 9 de ce livret." },
+        { "text": "Je ne parle pas la langue locale." }
+      ]
+    },
+    {
+      "id": "FZ",
+      "title": "FEMMES / ZIKA",
+      "data": [
+        { "text": "Êtes-vous enceinte ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "À quand remonte votre dernière période de menstruation ?" },
+        { "text": "" },
+        { "text": "Souﬀrez-vous actuellement de ?" },
+        { "text": "Fièvre" },
+        { "text": "Éruption cutanée" },
+        { "text": "Douleurs articulaires" },
+        { "text": "Conjonctivite" },
+        { "text": "Avez-vous été récemment piquée par un insecte?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Si oui, quel type d'insecte ?" },
+        { "text": "Moustique" },
+        { "text": "Araignée" },
+        { "text": "Tique" }
+      ]
+    },
+    {
+      "id": "DF",
+      "title": "DENGUE",
+      "data": [
+        { "text": "Avez-vous été récemment piquée par un moustique ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Êtes-vous enceinte ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Souﬀrez-vous actuellement de ?" },
+        { "text": "Forte fièvre subite (°40C/°104F)" },
+        { "text": "Maux de tête aigus" },
+        { "text": "s Douleur derrière les yeux" },
+        { "text": "Douleurs articulaires et musculaires intenses" },
+        { "text": "Nausées" },
+        { "text": "Vomissements" },
+        { "text": "Gonflement des ganglions lymphatiques" },
+        { "text": "Éruption cutanée" },
+        { "text": "ATTENTION" },
+        { "text": "Fièvre en dessous de 38°C/100°F" },
+        { "text": "Douleurs abdominales intenses" },
+        { "text": "Vomissements incessants" },
+        { "text": "Du sang dans l'urine, les selles ou les vomissements." },
+        {
+          "text": "Saignement du nez ou des gencives, ou saignement sous la peau qui peut ressembler à une ecchymose (un bleu)."
+        },
+        { "text": "Respiration difficile ou rapide" },
+        { "text": "Peau froide ou moite" },
+        { "text": "Fatigue" },
+        { "text": "Irritabilité ou agitation" }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "IMPORTANT",
+      "data": [
+        { "text": "Avez-vous un seul rein ?" },
+        { "text": "Oui, un seul rein" },
+        { "text": "Non, les deux reins" },
+        {
+          "text": "Êtes-vous, votre enfant ou la personne qui se présente aujourd'hui sous votre responsabilité, allergique à l'iode ou aux fruits de mer (crevettes), et/ou avez-vous ou ont-ils eu une mauvaise réaction ou une réaction indésirable (telle qu'une éruption cutanée, des rougeurs ou des démangeaisons) et/ou des difficultés à respirer ou à avaler lorsque vous ou eux avez eu un colorant (produit de contraste iodé) précédemment injecté par voie intraveineuse pendant ou immédiatement après une procédure médicale/radiologique antérieure ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Si oui, veuillez indiquer le type de réaction" },
+        { "text": "Diﬀiculté à respirer" },
+        { "text": "Diﬀiculté à avaler" },
+        { "text": "Peau" },
+        { "text": "Éruption cutanée" },
+        { "text": "Rougeur" },
+        { "text": "Démangeaisons" },
+        {
+          "text": "Avez-vous, votre enfant ou cette personne sous votre responsabilité, besoin de recevoir ou a-t-il déjà reçu une prémédication avant de subir un examen radiologique tel qu'un scanner, ou un examen rénal tel qu'une pyélographie intraveineuse (PIV), ou toute autre analyse médicale utilisant un colorant (un produit de contraste iodé) injecté par voie intraveineuse en raison d'une réaction allergique antérieure au colorant (produit de contraste iodé injecté) ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" }
+      ]
+    },
+    {
+      "id": "AA",
+      "title": "ALLERGIES",
+      "data": [
+        { "text": "Avez-vous des allergies alimentaires ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Gluten/Blé" },
+        { "text": "Cacahuètes" },
+        { "text": "Lait de vache" },
+        { "text": "Oeufs" },
+        { "text": "Crevettes/Crustacés" },
+        { "text": "Poisson" },
+        { "text": "Fruits à coque (noix, noix de cajou)" },
+        { "text": "Soja" },
+        { "text": "Agents de contraste/colorants iodés" },
+        { "text": "Autres" },
+        { "text": "" },
+        { "text": "Médicaments" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, quels médicaments ?" },
+        { "text": "" },
+        { "text": "Êtes-vous allergique à la pénicilline ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Etes-vous allergique à un ou plusieurs autres antibiotiques ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Le(s)quel(s)" },
+        { "text": "" },
+        {
+          "text": "Êtes-vous allergique aux piqûres d'abeilles ou à d'autres piqûres d'insectes ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "CM",
+      "title": "Médicaments actuels",
+      "data": [
+        { "text": "Nom du médicament / Dose" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" },
+        { "text": "" }
+      ]
+    },
+    {
+      "id": "SH",
+      "title": "ANTÉCÉDENTS CHIRURGICAUX",
+      "data": [
+        { "text": "Appendicectomie (ablation chirurgicale de l'appendice)" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Cholécystectomie (ablation chirurgicale de la vésicule biliaire)"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Chirurgie de l'estomac, de l'intestin grêle ou du côlon" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Autre chirurgie abdominale" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Mise en place de clips anévrismaux cérébraux pour une correction antérieure d'anévrisme cérébral"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Autre chirurgie du cerveau ou de la moelle épinière" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Chirurgie orthopédique, neurologique ou plastique" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Hystérectomie (ablation chirurgicale de l'utérus), ablation chirurgicale d'un ou de plusieurs ovaires, ou d'une ou de plusieurs trompes de Fallope"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "y Autre chirurgie pelvienne" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Vasectomie, orchidectomie (ablation chirurgicale d'un testicule) ou chirurgie prostatique"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Chirurgie cardiaque ou autre chirurgie thoracique" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Ablation chirurgicale d'un rein" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Autre chirurgie non énumérée ci-dessus" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" }
+      ]
+    },
+    {
+      "id": "PMR",
+      "title": "ANTÉCÉDENTS D'ANALYSE PRÉ-IRM (IMAGERIE PAR RÉSONANCE MAGNÉTIQUE)",
+      "data": [
+        {
+          "text": "Êtes-vous allergique aux produits de contraste pour l'IRM ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Avez-vous un seul rein ?" },
+        { "text": "Oui, un seul rein" },
+        { "text": "Non, j'ai encore mes deux reins" },
+        {
+          "text": "Êtes-vous claustrophobe et/ou avez-vous déjà éprouvé des difficultés avant ou pendant un examen IRM?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Disposez-vous d'un stimulateur cardiaque ou de sondes de stimulateur en place ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous un stimulateur cardiaque du sinus carotidien en place ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous une prothèse de valve cardiaque, un filtre de veine cave inférieure, un stent biliaire ou vasculaire, un stérilet (dispositif intra-utérin) ou une prothèse métallique en place, pour laquelle la stabilité de la position est douteuse ou préoccupante ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous un défibrillateur automatique implantable (DAI) en place ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Avez-vous une pompe à insuline en place ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Avez-vous un neurostimulateur en place ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous une pince non graphite pour la moelle épinière ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Avez-vous un implant cochléaire en place ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Avez-vous une prothèse stapédienne en place ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous un corps étranger métallique connu (un bout de métal) dans votre œil, ou avez-vous déjà été ou êtes-vous actuellement un soudeur ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous un clip anévrismal cérébral provenant d'une chirurgie antérieure ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous un cathéter de thermodilution Swan Ganz en place ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous d'autres métaux chirurgicaux ou non chirurgicaux dans ou sur votre corps, tels qu'un ou plusieurs dispositifs métalliques vertébraux en acier inoxydable ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous un tatouage sur la paupière ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" }
+      ]
+    },
+    {
+      "id": "MHS",
+      "title": "ANTÉCÉDENTS MÉDICAUX - REVUE DES SYSTÈMES",
+      "data": [
+        {
+          "text": "Avez-vous des antécédents d'hémophilie ou d'une autre déficience de la coagulation entraînant une tendance accrue aux saignements ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Êtes-vous diabétique ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Si vous êtes diabétique, prenez-vous" },
+        { "text": "Un ou plusieurs médicaments oraux contre le diabète" },
+        { "text": "Vous injectez-vous de l'insuline ?" },
+        {
+          "text": "Si vous avez des antécédents de diabète, en souffrez-vous actuellement ?"
+        },
+        { "text": "Des nausées ou des vomissements" },
+        { "text": "Une soif excessive" },
+        { "text": "Un essoufflement" },
+        { "text": "Une miction fréquente" },
+        { "text": "Des troubles de la mémoire" },
+        { "text": "Douleur abdominale" },
+        {
+          "text": "Souffrez-vous d'une immunodéficience ou suivez-vous actuellement une chimiothérapie ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "HAN",
+      "title": "TÊTE ET COU",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Maux de tête chroniques modérés à sévères" },
+        { "text": "Troubles de la vision" },
+        { "text": "Perte de vision" },
+        { "text": "Perte auditive" },
+        { "text": "Perte de mémoire" },
+        { "text": "Perte de conscience" },
+        { "text": "Évanouissements" },
+        { "text": "Antécédents de crises d'épilepsie" },
+        {
+          "text": "Antécédents de vertiges ou de pertes d'équilibre chroniques"
+        },
+        { "text": "Faiblesse musculaire ou fatigue chronique" },
+        { "text": "Accident vasculaire cérébral" },
+        {
+          "text": "Antécédents d'affections neurologiques telles que la maladie de Parkinson, la sclérose en plaques ou la chorée de Huntington"
+        },
+        { "text": "Maux de gorge chroniques modérés à sévères" },
+        { "text": "Abus d'alcool ou de drogues" },
+        { "text": "Cancer de la tête ou du cou" }
+      ]
+    },
+    {
+      "id": "CT",
+      "title": "POITRINE / THORAX",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Asthme" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Bronchite" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Cancer du poumon" },
+        { "text": "Cancer du sein" },
+        { "text": "Rhume, grippe ou pneumonie récents" },
+        { "text": "Fièvre, frissons ou toux récents" },
+        {
+          "text": "Pneumonie à Pneumocystis carinii ou autres affections liées au VIH."
+        },
+        { "text": "Autres affections pulmonaires non énumérées ci-dessus" },
+        { "text": "Antécédents de crise cardiaque" },
+        { "text": "Autres affections liées au cœur" },
+        { "text": "Pose d'un stimulateur cardiaque" },
+        { "text": "Antécédents d'insuffisance cardiaque congestive" },
+        { "text": "Dormez-vous avec plusieurs oreillers ?" },
+        { "text": "Avez-vous un gonflement des pieds ou des chevilles ?" },
+        {
+          "text": "Antécédents de battements cardiaques irréguliers connus (arythmies)"
+        },
+        {
+          "text": "Avez-vous des antécédents de troubles de la coagulation sanguine ?"
+        },
+        { "text": "Hypertension artérielle" }
+      ]
+    },
+    {
+      "id": "AB",
+      "title": "ABDOMEN",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Cancer de l'estomac ou de l'intestin" },
+        { "text": "Cancer du foie" },
+        { "text": "Diverticulite" },
+        { "text": "Ablation antérieure d'un polype colique" },
+        {
+          "text": "Antécédents de transit intestinal irrégulier avec des périodes de constipation et/ou de diarrhée"
+        },
+        { "text": "Antécédents de saignement visible après une selle" },
+        { "text": "Antécédents d'hémorroïdes" },
+        {
+          "text": "Antécédents d'ulcères peptiques (ulcères œsophagiens, gastriques ou duodénaux)"
+        },
+        { "text": "Endoscopie ou coloscopie antérieure" },
+        { "text": "Maladie de Crohn ou colite ulcéreuse" },
+        { "text": "Avez-vous encore votre appendice ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "GÉNITO-URINAIRE",
+      "data": [
+        { "text": "Avez-vous un seul rein ?" },
+        { "text": "Oui, un seul rein" },
+        { "text": "Non, j'ai encore mes deux reins" },
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Antécédents de calculs rénaux" },
+        { "text": "Du sang visible lors de la miction sans douleur" },
+        { "text": "Antécédents d'infections des voies urinaires" },
+        { "text": "Cancer des reins, des uretères ou de la vessie" }
+      ]
+    },
+    {
+      "id": "FA",
+      "title": "FEMMES",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Cancer des ovaires, de l'endomètre ou du col de l'utérus" },
+        { "text": "Êtes-vous ménopausée ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, souffrez-vous de douleurs pelviennes ou de symptômes pelviens chroniques inhabituels ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Possibilité de maladie vénérienne actuelle ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Antécédents de règles abondantes ou irrégulières ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Antécédents de maladie inflammatoire pelvienne" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "PH",
+      "title": "ANTÉCÉDENTS DE GROSSESSE",
+      "data": [
+        { "text": "Antécédents d'avortement spontané d'une grossesse" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Antécédents de grossesse extra-utérine (hors de l'utérus)" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Antécédents de douleurs ou de saignements actuels en rapport avec la grossesse"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Antécédents de césarienne" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Complications pendant l'accouchement" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "MA",
+      "title": "HOMMES",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Cancer de la prostate" },
+        { "text": "Cancer des testicules" },
+        { "text": "Difficulté au début de la miction" },
+        { "text": "Douleur pendant la miction" },
+        { "text": "Écoulement du pénis (urétrite)" }
+      ]
+    },
+    {
+      "id": "MB",
+      "title": "MUSCULO-SQUELETTIQUE",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Arthrite" },
+        { "text": "Fracture osseuse récente" },
+        { "text": "Cancer des os" },
+        { "text": "Tumeur/cancer lié aux muscles" },
+        { "text": "Douleurs osseuses ou articulaires" },
+        { "text": "Fibromyalgie ou autre trouble musculaire" }
+      ]
+    },
+    {
+      "id": "S",
+      "title": "PEAU",
+      "data": [
+        { "text": "Souffrez-vous de l'une des affections suivantes ?" },
+        { "text": "Lupus ou autre maladie auto-immune" },
+        { "text": "Mélanome ou autre forme de cancer de la peau" },
+        {
+          "text": "Un grain de beauté, une verrue ou une autre lésion de la peau qui prend du volume ou change de couleur."
+        },
+        { "text": "Piqûres récentes d'un insecte comme" },
+        { "text": "Moustique" },
+        { "text": "Araignée" },
+        { "text": "Tique" }
+      ]
+    },
+    {
+      "id": "PRA",
+      "title": "VEUILLEZ EXAMINER TOUTES LES PARTIES DU CORPS CI-DESSOUS ET COCHER (✓ ) TOUTES LES CASES QUI VOUS CONCERNENT.",
+      "data": [
+        { "text": "THORAX/POITRINE" },
+        { "text": "TÊTE ET COU" },
+        { "text": "ABDOMEN" },
+        { "text": "GÉNITO-URINAIRE" },
+        { "text": "MUSCULO-SQUELETTIQUE" },
+        { "text": "PEAU" },
+        { "text": "DENTS" }
+      ]
+    },
+    {
+      "id": "ITC",
+      "title": "THORAX/POITRINE",
+      "data": [
+        { "text": "DOULEUR DE LA POITRINE" },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "Irradiation de la douleur thoracique vers" },
+        { "text": "Le cou ou la mâchoire" },
+        { "text": "L'un ou les deux bras" },
+        { "text": "Le Dos" },
+        { "text": "L'estomac" },
+        { "text": "La douleur thoracique vient-elle de commencer ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "La douleur thoracique persiste-t-elle pendant plus de quelques minutes ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Décririez-vous la douleur comme « un éléphant assis sur votre poitrine » ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous déjà ressenti une telle douleur à la poitrine?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de maladie cardiaque et/ou de crise cardiaque ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents d'insuffisance cardiaque congestive ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Souffrez-vous actuellement de transpiration froide ou nocturne ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous actuellement des nausées ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Ressentez-vous actuellement des étourdissements ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Êtes-vous actuellement essoufflé(e) avec ou sans gêne thoracique ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Prenez-vous un médicament sur ordonnance pour votre douleur thoracique ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Êtes-vous tombé(e) ou avez-vous eu des contusions aux côtes ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Toussez-vous actuellement ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents de chirurgie cardiaque ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous actuellement un stimulateur cardiaque en place ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Fumez-vous : des cigares, des cigarettes ou une pipe ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si vous fumez, depuis combien de temps ?" },
+        { "text": "Mois" },
+        { "text": "Années" },
+        { "text": "TOUX" },
+        { "text": "Expectorations de sang" },
+        { "text": "Toux grasse (mucosités)" },
+        { "text": "Toux sèche" },
+        { "text": "Durée de la toux" },
+        { "text": "Deux jours ou moins" },
+        { "text": "Une semaine" },
+        { "text": "Quelques semaines" },
+        { "text": "Un mois ou plus" },
+        { "text": "Souffrez-vous actuellement de" },
+        { "text": "Une respiration sifflante" },
+        { "text": "Douleurs musculaires et/ou articulaires" },
+        { "text": "Fièvre ou frissons" },
+        { "text": "Maux d'oreille ou de gorge" },
+        { "text": "Écoulement nasal" },
+        { "text": "Faiblesse ou fatigue intense" },
+        { "text": "Maux de tête" },
+        { "text": "Douleur autour des yeux" },
+        { "text": "Avez-vous été vacciné(e) contre la grippe récemment ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Vos symptômes de grippe ou de rhume sont-ils apparus subitement ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Votre enfant présente-t-il des symptômes de grippe ou de rhume avec"
+        },
+        { "text": "Vomissements" },
+        { "text": "Diarrhée" },
+        { "text": "Avez-vous des antécédents d'asthme ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, souffrez-vous actuellement de grandes difficultés à respirer ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Utilisez-vous un inhalateur ou prenez-vous des médicaments contre l'asthme ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, avez-vous l'inhalateur/médicaments pour l'asthme sur vous ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de caillots de sang dans les jambes ou les poumons ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Êtes-vous essoufflé(e) maintenant ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, êtes-vous fortement essoufflé(e) ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Ressentez-vous une douleur thoracique localement aiguë lorsque vous respirez ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous eu un accident de voiture récemment ou avez-vous subi un autre traumatisme thoracique ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents de tuberculose ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" }
+      ]
+    },
+    {
+      "id": "IHA",
+      "title": "TÊTE ET COU",
+      "data": [
+        { "text": "MAUX DE TÊTE" },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "Durée" },
+        { "text": "A commencé aujourd'hui" },
+        { "text": "Depuis des jours" },
+        { "text": "Va et vient" },
+        {
+          "text": "Décririez-vous le mal de tête comme « le pire mal de tête de votre vie » ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents d'hypertension artérielle ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Prenez-vous un médicament pour l'hypertension artérielle ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Prenez-vous actuellement un médicament pour « fluidifier votre sang » ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de caillots de sang dans les jambes ou les poumons ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents d'anomalie cardiaque depuis la naissance ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Si oui, l'anomalie cardiaque a-t-elle été chirurgicalement corrigée ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Étourdissements/vertiges" },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "Durée" },
+        { "text": "A commencé aujourd'hui" },
+        { "text": "Depuis des jours" },
+        { "text": "Va et vient" },
+        { "text": "VISION" },
+        { "text": "Floue" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Perte de vision" },
+        { "text": "Partielle" },
+        { "text": "Complète" },
+        { "text": "Affectant un seul œil" },
+        { "text": "Affectant les deux yeux" },
+        { "text": "Douleur ou raideur de la nuque" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Incapacité ou difficulté à bouger la tête latéralement ou vers le bas"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous les yeux rouges, endoloris ou sensibles à la lumière ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Perte auditive" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Troubles de l'élocution ou incapacité récente à parler" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Faiblesse actuelle du bras ou de la jambe" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents de fibrillation auriculaire ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous des antécédents de battements cardiaques irréguliers (arythmie) ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Un côté de votre visage s'affaisse-t-il ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si vous levez un bras, est-ce qu'il dérive vers le bas ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Saignement de nez courant" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Souffrez-vous de saignements des oreilles ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des difficultés à avaler ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, avez-vous des difficultés à avaler ?" },
+        { "text": "Des liquides" },
+        { "text": "Des solides" },
+        { "text": "Des pilules" },
+        {
+          "text": "Avez-vous des antécédents de problèmes de sinus et/ou de douleurs sinusales actuelles ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Est-ce que vous ou votre enfant avez avalé un os de poulet ou une arête de poisson, ou un autre corps étranger ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Souffrez-vous de maux de gorge ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si vous avez mal à la gorge, la douleur s'aggrave-t-elle ou ne disparaît-elle pas ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si vous souffrez d'un mal de gorge, depuis combien de temps l'avez-vous ?"
+        },
+        { "text": "La douleur a commencé aujourd'hui" },
+        { "text": "Il y a quelques jours" },
+        { "text": "Il y a plus d'une semaine" },
+        {
+          "text": "Avez-vous des antécédents d'épilepsie ou une crise récente ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Vous êtes-vous évanoui(e) ou avez-vous eu une perte de conscience récemment ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "IA",
+      "title": "ABDOMINAL",
+      "data": [
+        { "text": "Avez-vous récemment voyagé à l'étranger ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Où" },
+        { "text": "" },
+        { "text": "Consommez-vous des boissons alcoolisées ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous récemment ou avez-vous actuellement des vomissements ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Décririez-vous vos vomissements comme étant" },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "Vomissements de sang" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Durée des vomissements" },
+        { "text": "A commencé aujourd'hui" },
+        { "text": "Depuis des jours" },
+        { "text": "Va et vient" },
+        { "text": "Souffrez-vous actuellement de diarrhée ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si vous souffrez actuellement de diarrhée, la décririez-vous comme étant B"
+        },
+        { "text": "Sanglante" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Durée de la diarrhée" },
+        { "text": "Depuis des jours" },
+        { "text": "Une semaine" },
+        { "text": "Plus longtemps" },
+        { "text": "Lorsque vous allez à la selle, avez-vous ?" },
+        { "text": "Des selles foncées à très foncées" },
+        { "text": "Du sang dans les selles" },
+        {
+          "text": "Avez-vous des périodes de diarrhée suivies de constipation ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Souffrez-vous actuellement de douleurs abdominales ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si vous souffrez actuellement de douleurs abdominales, décririez-vous ces douleurs comme étant"
+        },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "La douleur abdominale est" },
+        { "text": "Du Côté droit" },
+        { "text": "Du Côté gauche" },
+        { "text": "Au milieu de l'abdomen, près du nombril" },
+        { "text": "Sur tout le ventre" },
+        { "text": "Durée de la douleur abdominale" },
+        { "text": "A commencé aujourd'hui" },
+        { "text": "Depuis des jours" },
+        { "text": "Va et vient" },
+        {
+          "text": "La douleur commence dans l'abdomen mais irradie vers le dos"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Douleur abdominale" },
+        { "text": "S'atténue en mangeant" },
+        { "text": "Non affectée par l'alimentation" },
+        {
+          "text": "Venez-vous de manger quelque chose qui vous « rend malade » ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents d'ulcères gastriques ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des douleurs à l'estomac après avoir mangé quelque chose de gras ou d'huileux ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous subi une ablation chirurgicale de la vésicule biliaire ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous perdu du poids de façon considérable et non intentionnelle au cours des derniers mois ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "IG",
+      "title": "GÉNITO-URINAIRE",
+      "data": [
+        {
+          "text": "Avez-vous actuellement ou avez-vous déjà eu des calculs rénaux ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        { "text": "Souffrez-vous actuellement de douleurs aux flancs ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Êtes-vous actuellement sous dialyse rénale ou péritonéale ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Souffrez-vous actuellement ou avez-vous déjà souffert d'une infection des voies urinaires ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Êtes-vous sexuellement actif(ve) ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Je préfère ne pas répondre" },
+        { "text": "Êtes-vous séropositif(ve) ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Je préfère ne pas répondre" }
+      ]
+    },
+    {
+      "id": "FB",
+      "title": "FEMMES",
+      "data": [
+        { "text": "Allaitez-vous actuellement ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Êtes-vous enceinte ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Si oui, à quand remonte votre dernière échographie pelvienne ?"
+        },
+        { "text": "" },
+        {
+          "text": "Si oui, avez-vous actuellement des saignements ou des écoulements vaginaux ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, avez-vous des douleurs pelviennes qui commencent à apparaître ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de grossesse antérieure associée à des complications ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des antécédents de fausse couche ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Souffrez-vous actuellement de douleurs abdominales basses ou pelviennes ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des saignements menstruels abondants ou prolongés ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous un écoulement actuel du mamelon ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous récemment perçu une grosseur dans votre (vos) sein(s) ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des saignements indolores pendant la miction ?" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "MC",
+      "title": "HOMMES",
+      "data": [
+        {
+          "text": "Avez-vous actuellement des douleurs à la miction, et/ou un écoulement pénien ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous des saignements indolores pendant la miction ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous besoin d'uriner souvent pendant la journée, ou vous levez-vous fréquemment la nuit pour uriner ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Éprouvez-vous des difficultés à uriner ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Avez-vous récemment subi un traumatisme aux testicules ?" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "VM",
+      "title": "MUSCULO-SQUELETTIQUE",
+      "data": [
+        {
+          "text": "Avez-vous fait une chute ou vous êtes-vous blessé(e) en provoquant des douleurs et/ou des saignements au dos/cou, à la poitrine, au bras, à la jambe ou dans une autre partie du corps squelettique?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, où avez-vous actuellement mal ?" },
+        { "text": "Tête" },
+        { "text": "Cou" },
+        { "text": "Dos" },
+        { "text": "Poitrine/côtes" },
+        { "text": "Côté droit" },
+        { "text": "Côté gauche" },
+        { "text": "Épaule droite" },
+        { "text": "Arrière-bras droit" },
+        { "text": "Coude droit" },
+        { "text": "Avant-bras droit" },
+        { "text": "Poignet droit" },
+        { "text": "Main droite" },
+        { "text": "Doigts droits" },
+        { "text": "Hanche droite" },
+        { "text": "Cuisse droite" },
+        { "text": "Genou droit" },
+        { "text": "Mollet droit" },
+        { "text": "Cheville droite" },
+        { "text": "Pied droit" },
+        { "text": "Épaule gauche" },
+        { "text": "Arrière-bras gauche" },
+        { "text": "Coude gauche" },
+        { "text": "Avant-bras gauche" },
+        { "text": "Poignet gauche" },
+        { "text": "Main gauche" },
+        { "text": "Doigts gauches" },
+        { "text": "Hanche gauche" },
+        { "text": "Cuisse gauche" },
+        { "text": "Genou gauche" },
+        { "text": "Mollet gauche" },
+        { "text": "Cheville gauche" },
+        { "text": "Pied gauche" },
+        {
+          "text": "Avez-vous des antécédents de caillots de sang dans les jambes ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Souffrez-vous actuellement d'une douleur à l'arrière de votre genou ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Souffrez-vous de douleurs et/ou de raideurs musculaires ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, la douleur ou la rigidité musculaire est-elle chronique ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous actuellement une tuméfaction des tissus mous dû à un traumatisme ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "La tuméfaction des tissus mous peut-elle être associée à un abcès ou à une infection?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "La tuméfaction semble-t-elle chaude au toucher ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "La tuméfaction semble-t-elle être dure ou inamovible ?" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "VS",
+      "title": "PEAU",
+      "data": [
+        {
+          "text": "Avez-vous eu récemment des piqûres d'insectes (moustiques, araignées, tiques ou autres insectes) ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Venez-vous de vous faire mordre ou griffer par un serpent, un chien, un chat ou un autre animal ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des lésions cutanées inhabituelles, des zébrures, des éruptions ou d'autres lésions de la peau ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de réaction allergique cutanée (dermatite de contact) à différents savons ou autres substances appliquées sur la peau ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Pas certain(e)" },
+        {
+          "text": "Avez-vous récemment marché sur du verre, un clou ou un autre corps étranger qui a percé votre peau ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, quelle partie de votre corps ?" },
+        { "text": "" },
+        { "text": "Souffrez-vous actuellement d'un grave coup de soleil ?" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "VDH",
+      "title": "ANTÉCÉDENTS DENTAIRES",
+      "data": [
+        {
+          "text": "Avez-vous des antécédents de rhumatisme articulaire aigu ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous des antécédents de prolapsus de la valve mitrale"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous l'habitude de vous faire prescrire un antibiotique avant toute procédure dentaire, y compris un nettoyage dentaire ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Êtes-vous allergique à la pénicilline ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Etes-vous allergique à d'autres antibiotiques ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, lequel ou lesquels" },
+        { "text": "" },
+        { "text": "MAUX DE DENTS" },
+        { "text": "Légers" },
+        { "text": "Modérés" },
+        { "text": "Graves" },
+        { "text": "Durée de la douleur" },
+        { "text": "À peine commencée" },
+        { "text": "Occasionnel" },
+        { "text": "Présente depuis longtemps" },
+        { "text": "Sporadique (par intermittence)" },
+        { "text": "Où la douleur est-elle ressentie ?" },
+        { "text": "(Maxillaire) côté supérieur droit" },
+        { "text": "(Maxillaire) côté supérieur gauche" },
+        { "text": "(Mandibulaire) côté inférieur droit" },
+        { "text": "(Mandibulaire) côté inférieur gauche" },
+        { "text": "La douleur s'intensifie avec" },
+        { "text": "Aliments/liquides froids" },
+        { "text": "Aliments/liquides chauds" },
+        { "text": "Mastication" },
+        { "text": "Les maux de dents sont associés à un gonflement local" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Les maux de dents sont associés à une douleur de type sinusal"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Avez-vous d'autres zones de gonflement au niveau de la mâchoire ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Si oui, où ?" },
+        { "text": "Sous la langue" },
+        { "text": "Sous la mâchoire" },
+        { "text": "Avez-vous des difficultés à avaler ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Portez-vous actuellement un dentier ?" },
+        { "text": "Oui" },
+        { "text": "Non" },
+        {
+          "text": "Si oui, le dentier vous fait-il mal lorsque vous le portez ?"
+        },
+        { "text": "Oui" },
+        { "text": "Non" },
+        { "text": "Souhaitez-vous changer de dentier ?" },
+        { "text": "Oui" },
+        { "text": "Non" }
+      ]
+    },
+    {
+      "id": "ATA",
+      "title": "À PROPOS DE L'AUTEUR",
+      "data": [
+        {
+          "text": "George P. Ciporkin, D.D.S., M.D., l'auteur de cette série au potentiel salvateur, apporte à la conception de la série des années de formation et d'expérience clinique en médecine et en dentisterie."
+        },
+        {
+          "text": "Il a obtenu une licence en sciences à l'université de Duke, un diplôme de D.D.S. à l'université de Northwestern et un diplôme de M.D. au Medical College of Ohio aux États-Unis."
+        },
+        {
+          "text": "Il a voyagé et vécu à l'étranger, et a étudié formellement plusieurs langues étrangères."
+        },
+        {
+          "text": "Le Livret de santé international garantit au voyageur la tranquillité d'esprit en lui permettant de transmettre rapidement et facilement ses renseignements médicaux personnalisés à l'étranger au personnel de santé qui ne parle pas couramment la langue maternelle du voyageur. Les séries sont conçues pour fournir des renseignements médicaux concis mais détaillés, en particulier pour les voyageurs qui se trouvent en situation d'urgence médicale à l'étranger ou qui relèvent du tourisme médical. Bon voyage !"
+        }
+      ]
+    }
+  ]
+}

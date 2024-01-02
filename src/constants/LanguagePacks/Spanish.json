@@ -1,0 +1,3040 @@
+{
+  "language": "English",
+  "languageTranslations": {
+    "English": "",
+    "Japanese": "",
+    "Korean": "",
+    "French": "",
+    "Spanish": "",
+    "Arabic": "",
+    "Mandarin": ""
+  },
+  "about": {
+    "id": "ATB",
+    "title": "About this App",
+    "data": [
+      {
+        "text": "This booklet* contains your private health information. Please keep it safe. "
+      },
+      {
+        "text": "Use the Quick Reference guide in this booklet* for quick access. "
+      },
+      {
+        "text": "Carry your Lingo Medico* with you at all times when you travel. "
+      },
+      {
+        "text": "A separate Lingo Medico* is recommended for each individual traveler, including infants and children. "
+      },
+      {
+        "text": "Affix a passport photo below to help medical personnel with individual identification. "
+      },
+      {
+        "text": ""
+      },
+      {
+        "text": "ISBN 13: 978-0-9977050-3-4 "
+      },
+      {
+        "text": "© 2020 Lingo Medico: Travel Medicine International, LLC. All rights reserved."
+      }
+    ]
+  },
+  "author": {
+    "id": "ATA",
+    "title": "About the Author",
+    "data": [
+      {
+        "text": "George P. Ciporkin, D.D.S., M.D., the author of this potentially life saving series, brings years of training and clinical experience in both medicine and dentistry into the series’ design."
+      },
+      {
+        "text": "He received a Bachelor of Science degree from Duke University, a D.D.S. degree from Northwestern University, and an M.D. degree from The Medical College of Ohio in the United States."
+      },
+      {
+        "text": "He has traveled and lived abroad, and has formally studied several foreign languages."
+      },
+      {
+        "text": "The Lingo Medico gives the traveler peace of mind in knowing that he or she can quickly and easily convey personalized medical information abroad to healthcare personnel who are not fluent in the traveler’s native language. The series are designed to provide concise, but thorough medical information particularly for travelers who encounter a medical emergency abroad or who are engaged in medical tourism. Safe Travels!"
+      }
+    ]
+  },
+  "disclaimer": {
+    "id": "D",
+    "title": "Disclaimer",
+    "data": [
+      {
+        "text": "Although this form is detailed, it is neither a comprehensive nor an exhaustive listing of all possible pre-existing or current medical or dental conditions, or potential medical or dental clinical emergencies which patients may encounter and present with in a healthcare setting."
+      },
+      {
+        "text": "The ultimate responsibility for conveying an accurate and a complete medical history and accurate and complete patient symptoms to healthcare personnel during a healthcare visit, including a medical emergency lies with the patient or the patient’s legal guardian."
+      },
+      {
+        "text": "As such, by using the Lingo Medico form, you release Lingo Medico: Travel Medicine International, LLC from any legal liability arising from its usage, including but not limited to any current or future untoward consequences due to an omission, error, or miscommunication directly or indirectly arising as a result of having used the Lingo Medico formulary."
+      },
+      {
+        "text": "This document is being provided as is and Lingo Medico: Travel Medicine International, LLC disclaims any warranty of merchantability or fitness for a particular purpose in connection with your purchase and use of this document."
+      }
+    ]
+  },
+  "instructions": {
+    "id": "PI",
+    "title": "PASSPORT INSTRUCTIONS***",
+    "data": [
+      {
+        "text": "Global Health Passport is divided into three sections: "
+      },
+      {
+        "text": "Section I. Medical History (pp. 7-19)*. "
+      },
+      {
+        "text": "Section II. Current Medical Symptoms (pp. 6-7 & 20-34)*. "
+      },
+      {
+        "text": "Section III. Current Dental Symptoms (pp. 34-36)*. "
+      },
+      {
+        "text": "Fill out your Global Health Passport "
+      },
+      {
+        "text": "Step 1 "
+      },
+      {
+        "text": "Fill out all of Section I (Medical History). "
+      },
+      {
+        "text": "Check mark (✓) all the boxes that apply to your medical history. "
+      },
+      {
+        "text": "Step 2 "
+      },
+      {
+        "text": "Fill out Section II (Current Medical Symptoms) if you are currently having medical symptoms or issues. "
+      },
+      {
+        "text": "Check mark (✓) all the boxes that relate to your current medical symptoms or issues. "
+      },
+      {
+        "text": "Step 3 "
+      },
+      {
+        "text": "Fill out all of Section III (Current Dental Symptom) even if you are just having a dental check up or a dental cleaning."
+      },
+      {
+        "text": "Make sure that Section I has been completely filled out. "
+      }
+    ]
+  },
+  "superSections": [
+    {
+      "title": "Section I. Medical History"
+    },
+    {
+      "title": "Section II. Current Medical Symptoms"
+    },
+    {
+      "title": "Section III. Current Dental Symptoms"
+    }
+  ],
+  "sections": [
+    {
+      "id": "GHP",
+      "title": "GLOBAL HEALTH PASSPORT*",
+      "data": [
+        {
+          "text": "Your country of Origin "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Your physician’s Name "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Your physician’s Phone/e-mail "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Have you had other foreign travel recently? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If YES, please list all countries of recent travel "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Please list all countries which you will be visiting in the next few days/weeks/months"
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": "EP",
+      "title": "EMERGENCY PHRASES",
+      "data": [
+        {
+          "text": "Use these phrases in a medical or dental emergency. "
+        },
+        {
+          "text": "Medical Emergency "
+        },
+        {
+          "text": "Please take me to the nearest hospital. "
+        },
+        {
+          "text": "Please call a cab for me. "
+        },
+        {
+          "text": "Please call the local 3-digit emergency phone number for me. "
+        },
+        {
+          "text": "Please give me the 3-digit emergency phone number used here. "
+        },
+        {
+          "text": "Dental Emergency "
+        },
+        {
+          "text": "Please take me to a dentist’s office. "
+        },
+        {
+          "text": "Please direct me to the nearest dentist. "
+        },
+        {
+          "text": "My information "
+        },
+        {
+          "text": "This booklet* contains my personal medical history."
+        },
+        {
+          "text": "Please use my medical information provided in this booklet*. "
+        },
+        {
+          "text": "My allergies are listed on page 9 of this booklet*. "
+        },
+        {
+          "text": "I don’t speak the local language. "
+        },
+        {
+          "text": "Are you pregnant? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "When was your last menstrual period? "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Do you currently have? "
+        },
+        {
+          "text": "Fever "
+        },
+        {
+          "text": "Rash "
+        },
+        {
+          "text": "Joint pain "
+        },
+        {
+          "text": "Conjunctivitis (pink eye) "
+        },
+        {
+          "text": "Have you had any recent insect bites? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "If yes, what type of insect? "
+        },
+        {
+          "text": "Mosquito "
+        },
+        {
+          "text": "Spider "
+        },
+        {
+          "text": "Tick "
+        },
+        {
+          "text": "Have you had a recent mosquito bite? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Are you pregnant? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you currently have? "
+        },
+        {
+          "text": "Sudden high fever (40°C/104°F) "
+        },
+        {
+          "text": "Severe headaches "
+        },
+        {
+          "text": "Pain behind the eyes"
+        },
+        {
+          "text": "Severe joint and muscle pain "
+        },
+        {
+          "text": "Nausea "
+        },
+        {
+          "text": "Vomiting "
+        },
+        {
+          "text": "Swollen lymph nodes "
+        },
+        {
+          "text": "Skin rash "
+        },
+        {
+          "text": "CAUTION "
+        },
+        {
+          "text": "Fever dropping below 38°C/100°F "
+        },
+        {
+          "text": "Severe abdominal pain "
+        },
+        {
+          "text": "Persistent vomiting "
+        },
+        {
+          "text": "Blood in your urine, stools, or vomit "
+        },
+        {
+          "text": "Bleeding from your nose or gums, or bleeding under the skin which may look like bruising "
+        },
+        {
+          "text": "Difficult or rapid breathing "
+        },
+        {
+          "text": "Cold or clammy skin "
+        },
+        {
+          "text": "Fatigue "
+        },
+        {
+          "text": "Irritability or restlessness "
+        }
+      ]
+    },
+    {
+      "id": "I",
+      "title": "IMPORTANT",
+      "data": [
+        {
+          "text": "Do you only have one kidney? "
+        },
+        {
+          "text": "Yes, one kidney "
+        },
+        {
+          "text": "No, both kidneys "
+        },
+        {
+          "text": "Are you, your child, or the individual presenting today under your care allergic to iodine or seafood (shrimp), and/or have you or they had a bad or adverse reaction (such as a skin: rash, redness, or itching) and/or difficulty breathing or swallowing when you or they have had dye (iodinated contrast medium) previously injected intravenously during or immediately after a prior medical/radiologic procedure?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "If yes, please list the type of reaction "
+        },
+        {
+          "text": "Difficulty breathing "
+        },
+        {
+          "text": "Difficulty Swallowing "
+        },
+        {
+          "text": "Skin "
+        },
+        {
+          "text": "Rash "
+        },
+        {
+          "text": "Redness "
+        },
+        {
+          "text": "Itching "
+        },
+        {
+          "text": "Do you, your child, or this individual under your care need to receive or has ever previously received a premedication drug regimen prior to having a radiologic examination such as a CT Scan, or a kidney examination such as Intravenous Pyelography (IVP), or any other medical study utilizing dye (an iodinated contrast medium) injected intravenously due to a prior allergic response to the dye (injected iodinated contrast medium)? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        }
+      ]
+    },
+    {
+      "id": "AA",
+      "title": "ALLERGIES ",
+      "data": [
+        {
+          "text": "Do you have food allergies? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Gluten/Wheat "
+        },
+        {
+          "text": "Peanuts "
+        },
+        {
+          "text": "Cow’s Milk "
+        },
+        {
+          "text": "Eggs "
+        },
+        {
+          "text": "Shrimp/Shellfish "
+        },
+        {
+          "text": "Fish "
+        },
+        {
+          "text": "Tree Nuts (Walnuts, Cashews) "
+        },
+        {
+          "text": "Soy "
+        },
+        {
+          "text": "Iodinated contrast agents/dye "
+        },
+        {
+          "text": "Other "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Medications "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, which medications? "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Are you allergic to penicillin? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you allergic to other antibiotic(s)? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Which one(s) "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Are you allergic to bee stings or other insect bites? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "CM",
+      "title": "Current Medications",
+      "data": [
+        {
+          "text": "Name of Medication / Dose "
+        },
+        {
+          "text": "1.   "
+        },
+        {
+          "text": "2.   "
+        },
+        {
+          "text": "3.   "
+        },
+        {
+          "text": "4.   "
+        },
+        {
+          "text": "5.   "
+        },
+        {
+          "text": "6.   "
+        },
+        {
+          "text": "7.   "
+        },
+        {
+          "text": "8.   "
+        },
+        {
+          "text": "9.   "
+        },
+        {
+          "text": "10. "
+        },
+        {
+          "text": "Appendectomy (surgical removal of your appendix) "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Cholecystectomy (surgical removal of your gallbladder) "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Surgery to your stomach, small intestines, or colon "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Other abdominal surgery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Placement of brain aneurysmal clips for a prior brain aneurysm correction "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Other brain or spinal cord surgery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Orthopedic, neurologic, or plastic surgery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Hysterectomy (surgical removal of the uterus), surgical removal of an ovary(ovaries), or fallopian tube(s) "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Other pelvic surgery"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Vasectomy, orchidectomy (surgical removal of a testicle), or prostatic surgery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Cardiac or other thoracic surgery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Surgical removal of a kidney "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Other surgery not listed above "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        }
+      ]
+    },
+    {
+      "id": "PMR",
+      "title": "PRE-MRI (MAGNETIC RESONANCE IMAGING) STUDY HISTORY",
+      "data": [
+        {
+          "text": "Do you have an allergy to MRI contrast? MRI"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you only have one kidney? "
+        },
+        {
+          "text": "Yes, only one kidney "
+        },
+        {
+          "text": "No, I still have both kidneys "
+        },
+        {
+          "text": "Are you claustrophobic and/or have you previously experienced difficulties prior or during an MRI examination? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a cardiac pacemaker, or retained pacemaker leads in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a carotid sinus pacemaker in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a prosthetic heart valve, inferior vena cava filter, biliary or vascular stent, IUD (Intrauterine Device), or a metallic prosthesis in place, in which there is a doubt or concern as to positional stability? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have an automatic implantable cardioverter defibrillator (AICD) in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have an insulin pump in place?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a neurostimulator in place?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a non-graphite spinal cord tong in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a cochlear implant in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a stapedial implant in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a known metallic foreign body (metal sliver) in your eye, or have you ever been or are you currently a welder? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a brain aneurysmal clip from a prior surgery? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a Thermodilution Swan Ganz Catheter in place?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have other possible surgical/or nonsurgical metal in or on your body such as a stainless steel spinal metallic device or devices? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have an eyelid tattoo? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        }
+      ]
+    },
+    {
+      "id": "MHS",
+      "title": "MEDICAL HISTORY - SYSTEMS REVIEW",
+      "data": [
+        {
+          "text": "Do you have a history of hemophilia or other coagulation deficiency with an increased tendency to bleed? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have diabetes?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "If you have diabetes, are you on "
+        },
+        {
+          "text": "Oral diabetes medication(s) "
+        },
+        {
+          "text": "Do you inject insulin? "
+        },
+        {
+          "text": "If you have a history of diabetes, do you currently have? "
+        },
+        {
+          "text": "Nausea or vomiting "
+        },
+        {
+          "text": "Excessive thirst "
+        },
+        {
+          "text": "Shortness of breath "
+        },
+        {
+          "text": "Frequent urination "
+        },
+        {
+          "text": "Confusion "
+        },
+        {
+          "text": "Abdominal pain "
+        },
+        {
+          "text": "Are you immunocompromised or are you currently receiving chemotherapy? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "HAN",
+      "title": "HEAD AND NECK",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Chronic moderate to severe headaches "
+        },
+        {
+          "text": "Blurred Vision "
+        },
+        {
+          "text": "Visual loss "
+        },
+        {
+          "text": "Hearing loss "
+        },
+        {
+          "text": "Memory loss "
+        },
+        {
+          "text": "Loss of consciousness "
+        },
+        {
+          "text": "Fainting spells "
+        },
+        {
+          "text": "A seizure history "
+        },
+        {
+          "text": "A history of chronic dizziness or loss of balance "
+        },
+        {
+          "text": "Muscle Weakness or Chronic Fatigue "
+        },
+        {
+          "text": "Stroke "
+        },
+        {
+          "text": "A history of neurological conditions such as Parkinson’s disease, multiple sclerosis, or Huntington’s chorea "
+        },
+        {
+          "text": "Chronic moderate to severe sore throat "
+        },
+        {
+          "text": "Alcohol or drug abuse "
+        },
+        {
+          "text": "Head or neck cancer "
+        }
+      ]
+    },
+    {
+      "id": "CT",
+      "title": "CHEST / THORAX",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Asthma "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Bronchitis "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Lung cancer "
+        },
+        {
+          "text": "Breast cancer "
+        },
+        {
+          "text": "Recent cold, flu, or pneumonia "
+        },
+        {
+          "text": "Recent fever, chills, or cough "
+        },
+        {
+          "text": "Pneumocystis carinii pneumonia or other HIV related medical conditions. "
+        },
+        {
+          "text": "Other Pulmonary Conditions Not Listed Above "
+        },
+        {
+          "text": "History of a heart attack "
+        },
+        {
+          "text": "Other heart related conditions "
+        },
+        {
+          "text": "Cardiac pacemaker placement"
+        },
+        {
+          "text": "History of congestive heart failure "
+        },
+        {
+          "text": "Do you sleep with multiple pillows "
+        },
+        {
+          "text": "Do you have foot or ankle swelling "
+        },
+        {
+          "text": "History of known irregular heartbeats (arrhythmias) "
+        },
+        {
+          "text": "Do you have History of a blood clotting disorder "
+        },
+        {
+          "text": "High blood pressure "
+        }
+      ]
+    },
+    {
+      "id": "AB",
+      "title": "ABDOMEN",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Stomach or intestinal cancer "
+        },
+        {
+          "text": "Liver cancer "
+        },
+        {
+          "text": "Diverticulitis"
+        },
+        {
+          "text": "Prior colonic polyp removal "
+        },
+        {
+          "text": "Prior history of irregular bowel movements with periods of constipation and/or diarrhea "
+        },
+        {
+          "text": "History of visible blood after a bowel movement "
+        },
+        {
+          "text": "History of hemorrhoids "
+        },
+        {
+          "text": "History of peptic ulcers (esophageal, gastric, or duodenal ulcers) "
+        },
+        {
+          "text": "Prior endoscopy or colonoscopy"
+        },
+        {
+          "text": "Crohn’s disease or ulcerative colitis "
+        },
+        {
+          "text": "Do you still have your appendix? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "title": "GENITOURINARY",
+      "data": [
+        {
+          "text": "Do you only have one kidney? "
+        },
+        {
+          "text": "Yes, only one kidney "
+        },
+        {
+          "text": "No, I still have both kidneys "
+        },
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "History of kidney stones "
+        },
+        {
+          "text": "Visible blood upon urination without pain "
+        },
+        {
+          "text": "History of urinary tract infections "
+        },
+        {
+          "text": "Cancer of the kidneys, ureters, or urinary bladder "
+        }
+      ]
+    },
+    {
+      "id": "FA",
+      "title": "FEMALES",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Ovarian, endometrial, or cervical cancer "
+        },
+        {
+          "text": "Are you menopausal? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, do you have pelvic pain or unusual chronic pelvic symptoms?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Possible current venereal disease? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "History of heavy menstrual flow or irregular menstrual periods "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "History of pelvic inflammatory disease "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "PH",
+      "title": "PREGNANCY HISTORY",
+      "data": [
+        {
+          "text": "History of a spontaneous abortion of a pregnancy "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "History of an ectopic (outside of the uterus) pregnancy "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "History of current pain or bleeding related to pregnancy "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "History of a cesarian section "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Complications during delivery "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "MA",
+      "title": "MALES",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Prostate Cancer "
+        },
+        {
+          "text": "Testicular cancer "
+        },
+        {
+          "text": "Difficulty starting urination "
+        },
+        {
+          "text": "Pain during urination "
+        },
+        {
+          "text": "Penile discharge "
+        }
+      ]
+    },
+    {
+      "id": "MB",
+      "title": "MUSCULOSKELETAL",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Arthritis "
+        },
+        {
+          "text": "Recent bone fracture "
+        },
+        {
+          "text": "Bone cancer "
+        },
+        {
+          "text": "Muscle related tumor/cancer "
+        },
+        {
+          "text": "Bone or joint pain "
+        },
+        {
+          "text": "Fibromyalgia or other muscular disorder "
+        }
+      ]
+    },
+    {
+      "id": "S",
+      "title": "SKIN",
+      "data": [
+        {
+          "text": "Do you have any of the following conditions? "
+        },
+        {
+          "text": "Lupus or other autoimmune disease "
+        },
+        {
+          "text": "Melanoma or other form of skin cancer "
+        },
+        {
+          "text": "A mole, wart, or other skin lesion that is enlarging or changing color "
+        },
+        {
+          "text": " Recent insect bites from a "
+        },
+        {
+          "text": "Mosquito "
+        },
+        {
+          "text": "Spider "
+        },
+        {
+          "text": "Tick "
+        }
+      ]
+    },
+    {
+      "id": "PRA",
+      "title": "PLEASE REVIEW ALL OF THE BODY SECTIONS BELOW AND CHECK MARK (✓) ALL THE BOXES THAT APPLY TO YOU.",
+      "data": [
+        {
+          "text": "I. THORAX/CHEST "
+        },
+        {
+          "text": "II. HEAD AND NECK "
+        },
+        {
+          "text": "III. ABDOMEN "
+        },
+        {
+          "text": "IV. GENITOURINARY "
+        },
+        {
+          "text": "V. MUSCULOSKELETAL "
+        },
+        {
+          "text": "VI. SKIN "
+        },
+        {
+          "text": "VII. DENTAL "
+        }
+      ]
+    },
+    {
+      "id": "ITC",
+      "title": "I. THORAX / CHEST",
+      "data": [
+        {
+          "text": "CHEST PAIN"
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "Radiation of chest pain to "
+        },
+        {
+          "text": "Neck or jaw "
+        },
+        {
+          "text": "One or both arms "
+        },
+        {
+          "text": "Back "
+        },
+        {
+          "text": "Stomach "
+        },
+        {
+          "text": "Did the chest pain just start? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Does the chest pain last for more than a few minutes? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Would you describe the pain as “an elephant sitting on your chest”? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you had such a chest pain before? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of heart disease and/or a prior heart attack? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of congestive heart failure? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have cold sweats or night sweats? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you currently nauseous? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you currently lightheaded? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you currently short of breath with or without chest discomfort? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you take a prescribed medicine for your chest pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Did you fall or bruise your ribs? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you coughing currently? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of prior heart surgery? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have a cardiac pacemaker in place? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you smoke: cigars, cigarettes, or a pipe? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you smoke, how long have you been smoking? "
+        },
+        {
+          "text": "Months "
+        },
+        {
+          "text": "Years "
+        },
+        {
+          "text": "COUGH "
+        },
+        {
+          "text": "Bloody sputum "
+        },
+        {
+          "text": "Productive cough (phlegm) "
+        },
+        {
+          "text": "Dry cough "
+        },
+        {
+          "text": "Duration of Cough"
+        },
+        {
+          "text": "Two days or less "
+        },
+        {
+          "text": "A week "
+        },
+        {
+          "text": "A few weeks "
+        },
+        {
+          "text": "A month or longer "
+        },
+        {
+          "text": "Do you currently have "
+        },
+        {
+          "text": "Wheezing "
+        },
+        {
+          "text": "Aches in muscles and/or joints "
+        },
+        {
+          "text": "Fever or chills "
+        },
+        {
+          "text": "Ear or throat pain "
+        },
+        {
+          "text": "Runny nose "
+        },
+        {
+          "text": "Weakness or extreme fatigue "
+        },
+        {
+          "text": "Headache "
+        },
+        {
+          "text": "Pain around your eyes "
+        },
+        {
+          "text": "Have you had a flu shot in the recent past? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have your flu/cold like symptoms come on suddenly? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Does your child have flu/cold-like symptoms with "
+        },
+        {
+          "text": "Vomiting "
+        },
+        {
+          "text": "Diarrhea "
+        },
+        {
+          "text": "Do you have a history of asthma? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, are you currently experiencing great difficulty breathing? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you use an inhaler or take any medications for asthma? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, do you have the asthma inhaler/medication with you? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a prior history of blood clots in your legs or lungs? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you out of breath now? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, are you very much out of breath? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a locally sharp chest pain when you take a breath? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Were you in a recent car accident or have you had other chest trauma? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of tuberculosis? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        }
+      ]
+    },
+    {
+      "id": "IHA",
+      "title": "II. HEAD AND NECK",
+      "data": [
+        {
+          "text": "HEADACHE "
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "Duration "
+        },
+        {
+          "text": "Started today "
+        },
+        {
+          "text": "Days "
+        },
+        {
+          "text": "Comes and goes "
+        },
+        {
+          "text": "Would you describe the headache as “the worse headache of your life” "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of high blood pressure? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you take a medication for the high blood pressure? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently take a medication to “thin your blood”? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a prior history of blood clots in your legs or lungs? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of a heart defect since birth? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "If yes, has the heart defect been surgically corrected? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Dizziness/vertigo "
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "Duration "
+        },
+        {
+          "text": "Started today "
+        },
+        {
+          "text": "Days "
+        },
+        {
+          "text": "Comes and goes "
+        },
+        {
+          "text": "VISION "
+        },
+        {
+          "text": "Blurred "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Visual Loss "
+        },
+        {
+          "text": "Partial "
+        },
+        {
+          "text": "Complete "
+        },
+        {
+          "text": "Involving One Eye "
+        },
+        {
+          "text": "Involving Both Eyes "
+        },
+        {
+          "text": "Neck pain or stiffness "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Unable or difficult to move head to sides or down "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are your eyes red, painful, or sensitive to light? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Hearing loss "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Slurred speech or recent inability to speak "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Current arm or leg weakness "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of Atrial Fibrillation? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have a history of an irregular heart beat (arrhythmia)? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Does one side of your face droop? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you raise an arm, does it drift downward? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Current Nose Bleed "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have bleeding from the ears? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have difficulty with swallowing? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, do you have difficulty swallowing? "
+        },
+        {
+          "text": "Liquids "
+        },
+        {
+          "text": "Solids "
+        },
+        {
+          "text": "Pills "
+        },
+        {
+          "text": "Do you have a history of sinus problems and/or current sinus pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Did you or your child swallow a chicken or a fish bone, or other foreign body? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you have sore throat pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you do have a sore throat, is the throat pain getting worse or not going away? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you do have a sore throat, for how long have you had it?"
+        },
+        {
+          "text": "Pain started today "
+        },
+        {
+          "text": "A few days ago "
+        },
+        {
+          "text": "More than a week ago "
+        },
+        {
+          "text": "Do you have a history of epilepsy or a recent seizure? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you fainted or have you experienced loss of consciousness recently? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "IA",
+      "title": "III. ABDOMINAL",
+      "data": [
+        {
+          "text": "Other foreign travel recently? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Where "
+        },
+        {
+          "text": "Do you drink alcoholic beverages? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you recently or are you currently vomiting? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Would you describe the vomiting as "
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "Bloody vomit "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Duration of vomiting "
+        },
+        {
+          "text": "Started today "
+        },
+        {
+          "text": "Days "
+        },
+        {
+          "text": "Comes and goes "
+        },
+        {
+          "text": "Do you currently have diarrhea? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you currently have diarrhea, would you describe it as "
+        },
+        {
+          "text": "Bloody "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Duration of diarrhea "
+        },
+        {
+          "text": "Days "
+        },
+        {
+          "text": "A Week "
+        },
+        {
+          "text": "Longer "
+        },
+        {
+          "text": "When you have a bowel movement do you have? "
+        },
+        {
+          "text": "Dark to very dark stools "
+        },
+        {
+          "text": "Blood in the stools "
+        },
+        {
+          "text": "Do you have periods of diarrhea followed by constipation? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have abdominal pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If you currently have abdominal pain, would you describe the pain as "
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "The abdominal pain is "
+        },
+        {
+          "text": "Right side "
+        },
+        {
+          "text": "Left side "
+        },
+        {
+          "text": "Mid-abdomen near your belly button "
+        },
+        {
+          "text": "All over your stomach "
+        },
+        {
+          "text": "Duration of abdominal pain "
+        },
+        {
+          "text": "Started today "
+        },
+        {
+          "text": "Days "
+        },
+        {
+          "text": "Comes and goes "
+        },
+        {
+          "text": "Pain starts in the abdomen but radiates to back "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Abdominal pain "
+        },
+        {
+          "text": "Decreases with eating "
+        },
+        {
+          "text": "Unaffected by eating "
+        },
+        {
+          "text": "Did you just eat something that’s “making you feel sick”? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of peptic ulcers? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have stomach pain after you eat something fatty or greasy? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you had your gallbladder surgically removed? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you had dramatic non intended weight loss in the last few months? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "IG",
+      "title": "IV. GENITOURINARY",
+      "data": [
+        {
+          "text": "Do you currently have or have you ever had kidney stones? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Do you currently have flank pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you currently on renal or peritoneal dialysis? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have or have you ever had a urinary tract infection? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you sexually active? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "I prefer not to answer "
+        },
+        {
+          "text": "Are you HIV positive? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "I prefer not to answer "
+        }
+      ]
+    },
+    {
+      "id": "FB",
+      "title": "FEMALES ",
+      "data": [
+        {
+          "text": "Are you currently breast feeding? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you pregnant? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "If yes, when was your last pelvic ultrasound? "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "If yes, are you currently bleeding/or discharging per vagina? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, do you have pelvic pain that just started? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have history of a prior pregnancy with associated complications? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a prior history of a miscarriage? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have lower abdominal or pelvic pain? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have excessive or prolonged menstrual bleeding?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a current nipple discharge? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Have you recently felt a lump in your breast(s)? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have painless bleeding during urination? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "MC",
+      "title": "MALES ",
+      "data": [
+        {
+          "text": "Do you currently have painful urination, and/or a penile discharge? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have painless bleeding during urination? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have to urinate often during the day, or do you get up frequently at night to urinate? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have difficulty during urination? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Did you sustain trauma to your testicles recently? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "VM",
+      "title": "V. MUSCULOSKELETAL ",
+      "data": [
+        {
+          "text": "Have you fallen or injured yourself causing back/neck, chest, arm, leg, or other skeletal body area pain and/or bleeding? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, where does it currently hurt? "
+        },
+        {
+          "text": "Head "
+        },
+        {
+          "text": "Neck "
+        },
+        {
+          "text": "Back "
+        },
+        {
+          "text": "Chest/ribs "
+        },
+        {
+          "text": "Right side "
+        },
+        {
+          "text": "Left side "
+        },
+        {
+          "text": "Right shoulder "
+        },
+        {
+          "text": "Right upper arm "
+        },
+        {
+          "text": "Right elbow "
+        },
+        {
+          "text": "Right lower arm "
+        },
+        {
+          "text": "Right wrist "
+        },
+        {
+          "text": "Right hand "
+        },
+        {
+          "text": "Right fingers "
+        },
+        {
+          "text": "Right hip "
+        },
+        {
+          "text": "Right upper leg "
+        },
+        {
+          "text": "Right knee "
+        },
+        {
+          "text": "Right lower leg "
+        },
+        {
+          "text": "Right ankle "
+        },
+        {
+          "text": "Right foot "
+        },
+        {
+          "text": "Left shoulder "
+        },
+        {
+          "text": "Left upper arm "
+        },
+        {
+          "text": "Left elbow "
+        },
+        {
+          "text": "Left lower arm "
+        },
+        {
+          "text": "Left wrist "
+        },
+        {
+          "text": "Left hand "
+        },
+        {
+          "text": "Left fingers "
+        },
+        {
+          "text": "Left hip "
+        },
+        {
+          "text": "Left upper leg "
+        },
+        {
+          "text": "Left knee "
+        },
+        {
+          "text": "Left lower leg "
+        },
+        {
+          "text": "Left ankle "
+        },
+        {
+          "text": "Left foot "
+        },
+        {
+          "text": "Do you have a prior history of blood clots in your legs? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have pain in the back of your knee? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have pain and/or muscle stiffness? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, is the muscle pain or rigidity chronic? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you currently have soft tissue swelling due to trauma? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Is the soft tissue swelling possibly associated with an abscess or an infection? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Does the swelling appear warm to the touch? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Does the swelling appear to be hard or unmovable? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "VS",
+      "title": "VI. SKIN ",
+      "data": [
+        {
+          "text": "Have you had any recent insect bites (mosquitoes, spiders, ticks, or other insects)? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Have you just had a bite/scratch from a snake, dog, cat, or other animal? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have any unusual skin sores, welts, rashes, or other skin lesions? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of a prior allergic skin reaction (contact dermatitis) to different soaps or other substances applied to the skin? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Not Sure "
+        },
+        {
+          "text": "Did you recently step on glass, a nail, or other foreign body that pierced your skin? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If so, which part of your body? "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "Do you currently have a severe sunburn? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    },
+    {
+      "id": "VDH",
+      "title": "VII. DENTAL HISTORY ",
+      "data": [
+        {
+          "text": "Do you have a history of having had rheumatic fever? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have a history of mitral valve prolapse? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you typically have an antibiotic prescribed prior to any dental procedure including a dental cleaning? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you allergic to penicillin? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Are you allergic to other antibiotics?"
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, which one(s) "
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "TOOTHACHE "
+        },
+        {
+          "text": "Mild "
+        },
+        {
+          "text": "Moderate "
+        },
+        {
+          "text": "Severe "
+        },
+        {
+          "text": "Pain Duration "
+        },
+        {
+          "text": "Just started "
+        },
+        {
+          "text": "Occasional "
+        },
+        {
+          "text": "Present for a long time "
+        },
+        {
+          "text": "Sporadic (On and Off) "
+        },
+        {
+          "text": "Where is the pain? "
+        },
+        {
+          "text": "(Maxillary) top right side "
+        },
+        {
+          "text": "(Maxillary) top left side "
+        },
+        {
+          "text": "(Mandibular) bottom right side "
+        },
+        {
+          "text": "(Mandibular) bottom left side "
+        },
+        {
+          "text": "Pain increases with "
+        },
+        {
+          "text": "Cold foods/liquids "
+        },
+        {
+          "text": "Hot foods/liquids "
+        },
+        {
+          "text": "Chewing "
+        },
+        {
+          "text": "The toothache is associated with local swelling "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "The toothache is associated with sinus type pain "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you have other areas of jaw swelling? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, where? "
+        },
+        {
+          "text": "Under the tongue "
+        },
+        {
+          "text": "Under the jaw "
+        },
+        {
+          "text": "Do you have difficulty swallowing? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Do you presently have dentures? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "If yes, do the dentures hurt when you wear them? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        },
+        {
+          "text": "Would you like another set of dentures made? "
+        },
+        {
+          "text": "Yes "
+        },
+        {
+          "text": "No "
+        }
+      ]
+    }
+  ]
+}
