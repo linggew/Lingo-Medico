@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "slug": "global-passport-phone-application",
+    "name": "Lingo Medico",
+    "sdkVersion": "45.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "e76f8989-dda3-4e24-bd2e-8828cb4b24f2"
+      }
+    },
+    "android": {
+      "package": "com.kevinmdugas.globalpassportphoneapplication",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "ios": {
+      "bundleIdentifier": "com.kevinmdugas.globalpassportphoneapplication"
+    }
+  },
+  "name": "global-passport-phone-application"
+}
